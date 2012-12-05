@@ -44,7 +44,6 @@ namespace Atomic
             fullscreen = false;
 
             stateManager = new StateManager();
-			stateManager.StartState(new ConsoleState(this, 0));
         }
 
         protected override void Initialize()
