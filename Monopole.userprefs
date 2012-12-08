@@ -1,6 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Monopole/GUI/GuiManager.cs">
+    <Files>
+      <File FileName="Monopole/Atom.cs" Line="25" Column="37" />
+      <File FileName="Monopole/ParticleEngine/Particle.cs" Line="21" Column="3" />
+      <File FileName="Monopole/States/StateManager.cs" Line="17" Column="23" />
+      <File FileName="Monopole/GUI/GuiManager.cs" Line="51" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
